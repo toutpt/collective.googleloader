@@ -17,3 +17,26 @@ It provides autoupdate of javascript registry depend on hostname. API keys are
 stored into plone.app.registry, so you can use the provided control panel to
 configure it (adding API keys)
 
+
+Credits
+=======
+
+Companies
+---------
+
+|makinacom|_
+
+  * `Planet Makina Corpus <http://www.makina-corpus.org>`_
+  * `Contact us <mailto:python@makina-corpus.org>`_
+
+
+Authors
+
+  - JeanMichel FRANCOIS aka toutpt <toutpt@gmail.com>
+
+Contributors
+
+
+.. |makinacom| image:: http://depot.makina-corpus.org/public/logo.gif
+.. _makinacom:  http://www.makina-corpus.com
+
