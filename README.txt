@@ -12,4 +12,8 @@ From google:
     dynamic loading or auto-loading to enhance the performance of your application.
     
 
-This add-on provide integration of the google loader into Plone
+This add-on provide integration of the google loader (aka jsapi) into Plone.
+It provides autoupdate of javascript registry depend on hostname. API keys are
+stored into plone.app.registry, so you can use the provided control panel to
+configure it (adding API keys)
+

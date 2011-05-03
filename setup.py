@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1.0dev'
+version = '1.0b1'
 
 setup(name='collective.googleloader',
       version=version,
@@ -17,7 +17,7 @@ setup(name='collective.googleloader',
       keywords='',
       author='JeanMichel FRANCOIS aka toutpt',
       author_email='toutpt@gmail.com',
-      url='http://svn.plone.org/svn/collective/',
+      url='http://svn.plone.org/svn/collective/collective.googleloader',
       license='GPL',
       packages=find_packages(exclude=['ez_setup']),
       namespace_packages=['collective'],
